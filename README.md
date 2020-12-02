@@ -1,2 +1,2 @@
-# Detector-de-Melanomas
-Con una sencilla web-app puedes saber si tienes un melanoma, subiendo una imagen de una lesión en forma de lunar o mancha, el programa puede darte un diagnóstico rápido. 
+# Melanoma-Detection-WebApp
+With a simple web-app you can find out if you probably have melanoma, by uploading an image of a lesion in the form of a mole or spot, the program can give you a quick diagnosis.
